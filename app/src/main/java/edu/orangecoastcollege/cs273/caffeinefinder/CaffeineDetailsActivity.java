@@ -15,6 +15,7 @@ class CaffeineDetailsActivity extends AppCompatActivity{
         setContentView(R.layout.activity_caffeine_details);
 
 
-        
+
+
     }
 }
