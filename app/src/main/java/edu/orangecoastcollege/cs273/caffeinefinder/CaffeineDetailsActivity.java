@@ -42,6 +42,6 @@ class CaffeineDetailsActivity extends AppCompatActivity implements OnMapReadyCal
         map.addMarker(new MarkerOptions()
                 .position(selectedLocationPosition)
                 .title(selectedLocation.getName()
-                ))
+                ));
     }
 }
